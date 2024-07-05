@@ -1,0 +1,6 @@
+pillow
+django-crispy-forms
+crispy_bootstrap4
+bootstrap4
+djangorestframework
+django-mathfilters
